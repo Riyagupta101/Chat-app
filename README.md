@@ -1,5 +1,5 @@
 💬 Real-Time Chat Web App with Notifications
-
+Deployed Link:- https://riyagupta101.github.io/Chat-app/
 Author: Riya Gupta
 Assignment For: GIX Technology
 
@@ -76,3 +76,5 @@ Enhance UI/UX with themes, emojis, and custom avatars.
 
 Riya Gupta – GIX Technology Assignment
 <img width="1436" height="780" alt="Screenshot 2025-09-28 at 10 45 27 AM" src="https://github.com/user-attachments/assets/f3279247-9128-48e6-9ba5-26d4daf22ca7" />
+<img width="1437" height="788" alt="Screenshot 2025-09-28 at 10 47 41 AM" src="https://github.com/user-attachments/assets/da1bdc9b-e2c0-49cc-bcaa-eef687e7d215" />
+<img width="1440" height="781" alt="Screenshot 2025-09-28 at 10 47 59 AM" src="https://github.com/user-attachments/assets/8df9143c-4cb5-400d-8a40-5de21d15ae54" />
