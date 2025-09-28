@@ -75,3 +75,4 @@ Enhance UI/UX with themes, emojis, and custom avatars.
 📌 Author
 
 Riya Gupta – GIX Technology Assignment
+<img width="1436" height="780" alt="Screenshot 2025-09-28 at 10 45 27 AM" src="https://github.com/user-attachments/assets/f3279247-9128-48e6-9ba5-26d4daf22ca7" />
